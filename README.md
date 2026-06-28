@@ -4,9 +4,10 @@
 
 ![Mohsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohsen-safi-Najafabadi&show_icons=true&theme=default)
 
+
 📍 Passau, Germany 🇩🇪 — the bridge between business and IT.
 
-I turn messy, multi-source data into governed data models and clear dashboards, and apply machine learning and statistics — forecasting, customer segmentation, anomaly detection — to support real business decisions. I have **2+ years of hands-on experience** across BI,
+I turn messy, multi-source data into governed data models and clear dashboards, and apply machine learning and statistics — forecasting, customer segmentation, anomaly detection — to support real business decisions. I have **4+ years of hands-on experience** across BI,
 data modelling and analytics, including at **E.ON Grid Solutions** and **MAPNA Group**.
 
 🔭 Currently open to **Data Analyst / BI roles** in Germany.
@@ -27,11 +28,14 @@ data modelling and analytics, including at **E.ON Grid Solutions** and **MAPNA G
 **[📊 SAP Tax & Operations Analytics (Power BI)](https://github.com/Mohsen-safi-Najafabadi/sap-tax-ops-powerbi)**
 Governed Power BI reporting with a standardized KPI model, DAX measures, and an anomaly-detection prototype (STL + rolling z-score). Built around real Tax & Operations reporting modernization.
 
-**[🤖 Conversational AI Assistant — RAG over Module Catalogs](https://github.com/Mohsen-safi-Najafabadi/rag-module-catalog-assistant)**
-Retrieval chatbot over university module catalogs: PDF text extraction, TF-IDF + cosine-similarity retrieval (top-k), multi-turn session memory, and a Flask web UI. · *Python · scikit-learn · SQLite*
-
 **[🧬 IDMP Mini Lab — CSV → RDF → SPARQL Pipeline](https://github.com/Mohsen-safi-Najafabadi/idmp-mini-lab)**
 A data pipeline that transforms CSV into RDF triples and queries it with SPARQL to extract insights — modeled on the EMA IDMP (Identification of Medicinal Products) standard. · *Python · Data Modelling · SPARQL*
+
+**[🧠 Financial Machine Learning & NLP](https://github.com/Mohsen-safi-Najafabadi/financial-ml-nlp)**
+Regression vs. neural-network factor prediction (with Optuna hyperparameter tuning), plus Word2Vec / Doc2Vec embedding analysis of earnings-call transcripts for ESG themes. · *Python · scikit-learn · Optuna · Word2Vec*
+
+**[🤖 Conversational AI Assistant — RAG over Module Catalogs](https://github.com/Mohsen-safi-Najafabadi/rag-module-catalog-assistant)**
+Retrieval chatbot over university module catalogs: PDF text extraction, TF-IDF + cosine-similarity retrieval (top-k), multi-turn session memory, and a Flask web UI. · *Python · scikit-learn · SQLite*
 
 ---
 
