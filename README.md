@@ -5,9 +5,9 @@
 ![Mohsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohsen-safi-Najafabadi&show_icons=true&theme=default)
 
 
-📍 Passau, Germany 🇩🇪 — the bridge between business and IT.
+📍 Germany 🇩🇪 — the bridge between business and IT.
 
-I turn messy, multi-source data into governed data models and clear dashboards, and apply machine learning and statistics — forecasting, customer segmentation, anomaly detection — to support real business decisions. I have **4+ years of hands-on experience** across BI,
+I turn messy, multi-source data into governed data models and clear dashboards, and apply machine learning and statistics — forecasting, customer segmentation, anomaly detection — to support real business decisions. I have **2+ years of hands-on experience** across BI,
 data modelling and analytics, including at **E.ON Grid Solutions** and **MAPNA Group**.
 
 🔭 Currently open to **Data Analyst / BI roles** in Germany.
