@@ -2,9 +2,6 @@
 
 ### 📊 Data Analyst · BI · Data Modelling · Machine Learning
 
-![Mohsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohsen-safi-Najafabadi&show_icons=true&theme=default)
-
-
 📍 Germany 🇩🇪 — the bridge between business and IT.
 
 I turn messy, multi-source data into governed data models and clear dashboards, and apply machine learning and statistics — forecasting, customer segmentation, anomaly detection — to support real business decisions. I have **2+ years of hands-on experience** across BI,
@@ -52,3 +49,5 @@ German (B2) · English (Fluent) · Persian (Native)
 ## 📫 Get in touch
 - 💼 LinkedIn: [linkedin.com/in/mohsen-safi-najafabadi](https://linkedin.com/in/mohsen-safi-najafabadi)
 - 📧 Email: [Mohsen.Safi.Najafabadi@gmail.com](mailto:Mohsen.Safi.Najafabadi@gmail.com)
+
+  ![Mohsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohsen-safi-Najafabadi&show_icons=true&theme=default)
