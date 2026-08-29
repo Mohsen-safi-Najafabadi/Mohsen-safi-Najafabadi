@@ -1,6 +1,6 @@
 # Hi, I'm Mohsen 👋
 
-### 📊 Data Analyst · BI · Data Modelling · Machine Learning
+### 📊 Data Analyst · BI · Data Modelling · Machine Learning · AI Engineer
 
 📍 Germany 🇩🇪 — the bridge between business and IT.
 
