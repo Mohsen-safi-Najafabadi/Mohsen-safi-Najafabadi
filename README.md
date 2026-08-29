@@ -15,12 +15,15 @@ data modelling and analytics, including at **E.ON Grid Solutions** and **MAPNA G
 
 - **BI & Visualization:** Power BI (Data Modelling, DAX, Power Query / M) · Tableau · Qlik Sense · Excel · Microsoft Fabric (Lakehouse, OneLake, Data Pipelines)
 - **Data & SQL:** SQL (SQL Server, MySQL, SQLite) · Spark SQL · Schema Design & Mapping · ETL Automation · Data Quality & Validation
-- **Machine Learning & Analytics:** Python (scikit-learn) · Forecasting (ARIMA, Prophet) · Customer Segmentation · Anomaly Detection (STL, rolling z-scores, CUSUM) · A/B Testing · KPI Design · Funnel & Cohort Analysis
+- **Machine Learning & Analytics:** Python (scikit-learn) · Forecasting (ARIMA, Prophet) · Customer Segmentation · Anomaly Detection (STL, rolling z-scores, CUSUM) · A/B Testing · KPI Design · Funnel & Cohort Analysis.
+- **LLM & Agents:** LangGraph · Agentic workflows · Tool calling · Text-to-SQL · Prompt engineering · LLM evaluation (golden sets, execution accuracy) · Guardrails
 - **Ways of Working:** Requirements & Gap Analysis · KPI Definition · Stakeholder Management · Cross-functional Workshops · Documentation
 
 ---
 
 ## 📌 Featured Projects
+
+🏭 **[Warehouse Agent — Agentic Text-to-SQL](https://github.com/Mohsen-safi-Najafabadi/warehouse-agent)** An LLM agent that answers natural-language questions over a manufacturing database by writing and running its own SQL, with a 60-question golden evaluation set measuring execution accuracy, refusal correctness, cost and latency. · *Python · LangGraph · DuckDB · Evaluation*
 
 **[📊 SAP Tax & Operations Analytics (Power BI)](https://github.com/Mohsen-safi-Najafabadi/sap-tax-ops-powerbi)**
 Governed Power BI reporting with a standardized KPI model, DAX measures, and an anomaly-detection prototype (STL + rolling z-score). Built around real Tax & Operations reporting modernization.
